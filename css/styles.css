@@ -3,9 +3,6 @@
     --swiper-pagination-bullet-inactive-color: #fff;
     --swiper-navigation-color: #fff;
     --swiper-navigation-sides-offset: 32px;
-    @include breakpoint(320px) {
-        --swiper-navigation-sides-offset: 0px;
-    };
     --bs-blue: #6022A6;
 }
 
